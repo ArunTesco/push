@@ -17,3 +17,5 @@ A service worker is a script that is run by your browser in the background, sepa
   - just update ur "gcm_sender_id": "XXXXXX" in manifest file and Your GCM API KEY in app.js gcm.Sender('Your GCM API KEY')
   - node app.js
   - browse the site in 4000 port 
+
+### For more info on Service worker you can click [here](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
