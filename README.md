@@ -11,11 +11,9 @@ A service worker is a script that is run by your browser in the background, sepa
 
   Here i am using Google cloud messing for push Notification (you should have GCM account appkey to run this app you can create it its free for 90 days)
   
-  
-  
 ##Installation 
-  clone the repo
-  npm install
-  just update ur "gcm_sender_id": "XXXXXX" in manifest file and Your GCM API KEY in app.js gcm.Sender('Your GCM API KEY')
-  node app.js
-  browse the site in 4000 port 
+  - clone the repo
+  - npm install
+  - just update ur "gcm_sender_id": "XXXXXX" in manifest file and Your GCM API KEY in app.js gcm.Sender('Your GCM API KEY')
+  - node app.js
+  - browse the site in 4000 port 
